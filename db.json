@@ -1,0 +1,53 @@
+{
+  "visitors": [
+    {
+      "fullName": "weffew sdaffdsf",
+      "company": "3333",
+      "group": "Клиент",
+      "present": false,
+      "id": "1763675794604"
+    },
+    {
+      "fullName": "ауа ыва ыв",
+      "company": "22222222222222222",
+      "group": "Клиент",
+      "present": true,
+      "id": "1763678949483"
+    },
+    {
+      "fullName": "rsd g sdg",
+      "company": "fsefesf",
+      "group": "Клиент",
+      "present": true,
+      "id": "1763679634507"
+    },
+    {
+      "fullName": "fgfdg dfgf dfg",
+      "company": "greg",
+      "group": "Партнер",
+      "present": true,
+      "id": "1763682978325"
+    },
+    {
+      "fullName": "Иван Петров",
+      "company": "ООО Рога и Копыта",
+      "group": "Прохожий",
+      "present": true,
+      "id": "1763682978326"
+    },
+    {
+      "fullName": "Мария Сидорова",
+      "company": "ЗАО Техсервис",
+      "group": "Прохожий",
+      "present": false,
+      "id": "1763682978327"
+    },
+    {
+      "fullName": "Алексей Смирнов",
+      "company": "ИП Васильев",
+      "group": "Прохожий",
+      "present": true,
+      "id": "1763682978328"
+    }
+  ]
+}
