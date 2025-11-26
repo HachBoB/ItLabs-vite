@@ -12,7 +12,7 @@ type Visitor = {
     present: boolean;
 };
 
-const API_URL = "http://localhost:3000/visitors";
+const API_URL = "http://213.21.242.88:3000/visitors";
 export const groupOptions = ["Прохожий", "Клиент", "Партнер"];
 
 export default function App() {
